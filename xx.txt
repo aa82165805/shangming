@@ -2,6 +2,7 @@ creating a new branch is quick and simple.
 
 dev ming
 hahaha
+switch to new branch 'dev'
 
 
 
